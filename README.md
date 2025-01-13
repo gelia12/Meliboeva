@@ -1,3 +1,3 @@
-mkdir my_project
-cd my_project
+mkdir index.html
+cd index.html
 git init
